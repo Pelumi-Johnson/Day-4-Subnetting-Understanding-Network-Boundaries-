@@ -73,8 +73,7 @@ Rebuilt the network from memory using:
 This communication should work because both devices belong to the same network:
 192.168.1.0
 
-### 📸 Insert Screenshot Here
-![Same Network Test](same-network-test.png)
+![Same Network Test](https://github.com/Pelumi-Johnson/Day-4-Subnetting-Understanding-Network-Boundaries-/blob/main/Screenshot%202026-03-28%20023119.png)
 
 ---
 
