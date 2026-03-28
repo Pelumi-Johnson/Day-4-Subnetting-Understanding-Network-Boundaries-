@@ -19,8 +19,7 @@ Subnetting is the process of dividing a network into smaller network segments.
 
 A subnet mask tells you which part of an IP address represents the network and which part represents the host.
 
-### 📸 Insert Screenshot Here
-![Subnetting Concept](subnetting-concept.png)
+![Subnetting Concept](https://github.com/Pelumi-Johnson/Day-4-Subnetting-Understanding-Network-Boundaries-/blob/main/Screenshot%202026-03-28%20020959.png)
 
 ---
 
