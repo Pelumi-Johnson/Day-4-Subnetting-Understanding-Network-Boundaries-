@@ -56,8 +56,7 @@ Rebuilt the network from memory using:
 - 1 Switch
 - 2 PCs
 
-### 📸 Insert Screenshot Here
-![Rebuilt Topology](topology.png)
+![Rebuilt Topology](https://github.com/Pelumi-Johnson/Day-4-Subnetting-Understanding-Network-Boundaries-/blob/main/Screenshot%202026-03-28%20011115.png)
 
 ---
 
