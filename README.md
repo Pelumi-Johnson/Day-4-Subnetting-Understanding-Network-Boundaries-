@@ -41,8 +41,7 @@ Usable host range:
 Broadcast:
 192.168.1.255
 
-### 📸 Insert Screenshot Here
-![Subnet Mask Example](subnet-mask-example.png)
+![Subnet Mask Example](https://github.com/Pelumi-Johnson/Day-4-Subnetting-Understanding-Network-Boundaries-/blob/main/Screenshot%202026-03-28%20022018.png)
 
 ---
 
