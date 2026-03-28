@@ -87,8 +87,7 @@ This communication should fail because the devices are now in different networks
 - PC0 → 192.168.1.0
 - PC1 → 192.168.2.0
 
-### 📸 Insert Screenshot Here
-![Different Network Test](different-network-test.png)
+![Different Network Test](https://github.com/Pelumi-Johnson/Day-4-Subnetting-Understanding-Network-Boundaries-/blob/main/Screenshot%202026-03-28%20023612.png)
 
 ---
 
@@ -251,7 +250,7 @@ They are stepping points for subnet boundaries.
 ---
 
 ## 🔁 Practical Reinforcement
-- Rebuilt the topology from memory
+- I rebuilt the topology from memory
 - Tested communication within the same subnet
 - Broke communication by placing devices in different networks
 - Strengthened understanding of masks, prefixes, and boundaries
