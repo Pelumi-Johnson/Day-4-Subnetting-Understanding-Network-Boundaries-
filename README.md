@@ -95,8 +95,8 @@ This communication should fail because the devices are now in different networks
 
 ---
 
-## 🔍 Thinking Like an Engineer
-Instead of memorizing addresses, ask:
+## Thinking Like an Engineer
+Instead of memorizing addresses, I asked myself:
 
 What network is this device in?
 
@@ -113,7 +113,7 @@ When the mask is 255.255.255.0:
 
 ---
 
-## 🧠 Additional Understanding from Practice
+## Additional Understanding from Practice
 
 ### What a Subnet Mask Really Means
 A subnet mask tells you which part of the IP address is the network portion and which part is the host portion.
@@ -130,7 +130,7 @@ A home network using 255.255.255.0 is still a subnet, but it is usually one larg
 
 ---
 
-## 🧠 Bit Understanding and Prefix Logic
+## Bit Understanding and Prefix Logic
 
 Subnet masks come from the prefix length.
 
@@ -152,12 +152,9 @@ This becomes:
 
 The value 240 is simply the decimal translation of 11110000.
 
-### 📸 Insert Screenshot Here
-![Bit to Mask Translation](bit-mask-translation.png)
-
 ---
 
-## 🧠 Important Clarification
+## Important Clarification
 The mask is not built from host counts or subnet counts.
 
 The mask comes only from the prefix.
@@ -176,7 +173,7 @@ help describe capacity, but they do not build the mask itself.
 
 ---
 
-## 🧠 Why 256 Is Used
+## Why 256 Is Used
 When calculating block size in an octet, use 256, not 255.
 
 Reason:
@@ -194,7 +191,7 @@ The minus 1 rule belongs to broadcast calculations, not mask creation.
 
 ---
 
-## 🧠 Valid Subnet Mask Values
+## Valid Subnet Mask Values
 Subnet mask octets must follow continuous binary 1s and then 0s.
 
 Valid values:
@@ -208,7 +205,7 @@ This is why 255.255.252.0 is valid and 255.255.251.0 is not.
 
 ---
 
-## 🧠 /24 vs /28 vs /22
+## /24 vs /28 vs /22
 
 ### /24
 11111111.11111111.11111111.00000000
@@ -230,7 +227,7 @@ This groups addresses in blocks of 4 in the third octet.
 
 ---
 
-## 🧠 Block Size Understanding
+## Block Size Understanding
 For 255.255.252.0:
 
 Block size in the third octet is:
