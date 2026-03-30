@@ -1,4 +1,4 @@
-# 🖧 Day 4 | Subnetting (Understanding Network Boundaries)
+# 🖧 Subnetting (Understanding Network Boundaries)
 
 ## 🎯 Objective
 Understand why subnet masks exist, how networks are divided, and how to recognize network ranges without guessing.
